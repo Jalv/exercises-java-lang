@@ -8,6 +8,7 @@
         <module>oop-constructors</module>
         <module>oop-interfaces</module>
         <module>java-exceptions-io-text</module>
+        <module>java-exceptions-io-binary</module>
     </modules>
     <packaging>pom</packaging>
   <name>exercises-java-lang</name>
