@@ -6,6 +6,7 @@
   <version>0.1.0-SNAPSHOT</version>
     <modules>
         <module>oop-constructors</module>
+        <module>oop-interfaces</module>
     </modules>
     <packaging>pom</packaging>
   <name>exercises-java-lang</name>
