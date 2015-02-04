@@ -10,6 +10,7 @@
         <module>java-exceptions-io-text</module>
         <module>java-exceptions-io-binary</module>
         <module>java-concurrency-threads</module>
+        <module>java-concurrency-synchronization</module>
     </modules>
     <packaging>pom</packaging>
   <name>exercises-java-lang</name>
