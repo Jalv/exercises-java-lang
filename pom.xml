@@ -11,6 +11,8 @@
         <module>java-exceptions-io-binary</module>
         <module>java-concurrency-threads</module>
         <module>java-concurrency-synchronization</module>
+        <module>java-net-tcp-noconcurrent</module>
+        <module>java-net-udp-noconcurrent</module>
     </modules>
     <packaging>pom</packaging>
   <name>exercises-java-lang</name>
