@@ -13,6 +13,7 @@
         <module>java-concurrency-synchronization</module>
         <module>java-net-tcp-noconcurrent</module>
         <module>java-net-udp-noconcurrent</module>
+        <module>java-net-simplechat</module>
     </modules>
     <packaging>pom</packaging>
   <name>exercises-java-lang</name>
